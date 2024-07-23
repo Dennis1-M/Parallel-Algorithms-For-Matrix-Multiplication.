@@ -37,8 +37,8 @@ pip install numpy numba
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/parallel-matrix-multiplication-cuda.git
-cd parallel-matrix-multiplication-cuda
+git clone https://github.com/Dennis1-M/Parallel-Matrix-Multiplication-using-cuda.git
+cd Parallel-Matrix-Multiplication-using-cuda
 ```
 
 2. Run the matrix multiplication example:
